@@ -1,6 +1,5 @@
 package com.epam.pendo.service.impl;
 
-import com.epam.pendo.config.PendoConfig;
 import com.epam.pendo.dto.PendoIntegration;
 import com.epam.pendo.dto.request.CreateSegmentRequest;
 import com.epam.pendo.dto.response.CreateSegmentResponse;
